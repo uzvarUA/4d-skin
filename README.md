@@ -1,3 +1,4 @@
+1. ![](images/Screenshot_20250524_185510_AIDA64.jpg)
 # Як встановити 4d skins на Atlas Client на Android 11+?
 ## Зміст
 * [Shizuku](#shizuku)
